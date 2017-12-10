@@ -1,0 +1,11 @@
+.gradle
+build/
+dist/
+rpm/
+out/
+.cache
+*.pyc
+/.idea
+.idea/
+*.iml
+src/main/generated/
